@@ -1,0 +1,14 @@
+.button_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:10px;
+}
+
+.button {
+  background-color:rgb(84, 40, 102);
+  border-radius: 5px;
+  padding: 10px;
+  width: 30%;
+  color: white;
+}

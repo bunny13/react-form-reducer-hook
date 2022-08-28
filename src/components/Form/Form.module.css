@@ -1,0 +1,32 @@
+.signup {
+    width: 60%;
+    max-width: 40rem;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+.signup_header {
+    text-align: center;
+}
+
+.signup_header header {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.signup_header div {
+    padding: 10px;
+    background-color:rgb(233, 137, 122);
+    margin: 10px 0;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkbox {
+    width: 15px;
+    height: 20px;
+}
+  
